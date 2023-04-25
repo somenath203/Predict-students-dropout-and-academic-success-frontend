@@ -70,7 +70,7 @@ const Dashboard = () => {
 
         </div>
 
-        <NavLink to='/studentsuccessfailurepredictor' className='w-5/6 lg:w-1/4 mt-14 text-center bg-blue-400 hover:bg-blue-800 transition-all duration-500 text-white py-3 rounded-lg text-lg tracking-widest'>
+        <NavLink to='/studentsuccessfailurepredictor' className='w-5/6 lg:w-1/4 mt-14 mb-8 text-center bg-blue-400 hover:bg-blue-800 transition-all duration-500 text-white py-3 rounded-lg text-lg tracking-widest'>
           <button>Predict Your Future In Academics</button>
         </NavLink>
 
