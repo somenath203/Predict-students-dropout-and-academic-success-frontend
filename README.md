@@ -4,6 +4,6 @@ This is a project which is created with the help of React, TailwindCSS, antd, ex
 
 <br>
 
-### Link to Github Repo of the FastAPI API: https://github.com/somenath203/Predict-students-dropout-and-academic-success-backend-fastapi
+#### Link to Github Repo of the FastAPI API: https://github.com/somenath203/Predict-students-dropout-and-academic-success-backend-fastapi
 
-### Link to Github Repo of the NodeJS API: https://github.com/somenath203/Predict-students-dropout-and-academic-success-backend-nodejs
+#### Link to Github Repo of the NodeJS API: https://github.com/somenath203/Predict-students-dropout-and-academic-success-backend-nodejs
