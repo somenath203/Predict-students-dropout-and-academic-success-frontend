@@ -29,7 +29,7 @@ const ProtectedRoutes = ({ children }) => {
 
     } catch (error) {
 
-      localStorage.getItem('token');
+      localStorage.removeItem('token');
 
       navigate('/login');
 
